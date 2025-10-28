@@ -1,0 +1,13 @@
+# core libraries
+langchain
+llama-index
+haystack
+
+
+# for bckend server
+fastapi
+uvicorn
+
+# Addtional tools
+requests
+python-dotenv
