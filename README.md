@@ -1,0 +1,1 @@
+a chat bot made on gemini api with proper prompting by using propmting i made it a motivator and also made a crisis function so if a user write some crisis mess it can detected and by it we can take action
